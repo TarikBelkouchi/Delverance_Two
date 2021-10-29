@@ -1,0 +1,6 @@
+/Users/tarik/Documents/prework/Deliverance_Two/Deliverance_Two/bin/Debug/Deliverance_Two.exe
+/Users/tarik/Documents/prework/Deliverance_Two/Deliverance_Two/bin/Debug/Deliverance_Two.pdb
+/Users/tarik/Documents/prework/Deliverance_Two/Deliverance_Two/obj/Debug/Deliverance_Two.csproj.AssemblyReference.cache
+/Users/tarik/Documents/prework/Deliverance_Two/Deliverance_Two/obj/Debug/Deliverance_Two.csproj.CoreCompileInputs.cache
+/Users/tarik/Documents/prework/Deliverance_Two/Deliverance_Two/obj/Debug/Deliverance_Two.exe
+/Users/tarik/Documents/prework/Deliverance_Two/Deliverance_Two/obj/Debug/Deliverance_Two.pdb
